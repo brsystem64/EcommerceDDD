@@ -1,0 +1,8 @@
+c:\users\badblock\source\repos\EcommerceDDD\ApplicationApp\bin\Debug\netcoreapp2.1\ApplicationApp.deps.json
+c:\users\badblock\source\repos\EcommerceDDD\ApplicationApp\bin\Debug\netcoreapp2.1\ApplicationApp.dll
+c:\users\badblock\source\repos\EcommerceDDD\ApplicationApp\bin\Debug\netcoreapp2.1\ApplicationApp.pdb
+c:\users\badblock\source\repos\EcommerceDDD\ApplicationApp\obj\Debug\netcoreapp2.1\ApplicationApp.csproj.CoreCompileInputs.cache
+c:\users\badblock\source\repos\EcommerceDDD\ApplicationApp\obj\Debug\netcoreapp2.1\ApplicationApp.AssemblyInfoInputs.cache
+c:\users\badblock\source\repos\EcommerceDDD\ApplicationApp\obj\Debug\netcoreapp2.1\ApplicationApp.AssemblyInfo.cs
+c:\users\badblock\source\repos\EcommerceDDD\ApplicationApp\obj\Debug\netcoreapp2.1\ApplicationApp.dll
+c:\users\badblock\source\repos\EcommerceDDD\ApplicationApp\obj\Debug\netcoreapp2.1\ApplicationApp.pdb

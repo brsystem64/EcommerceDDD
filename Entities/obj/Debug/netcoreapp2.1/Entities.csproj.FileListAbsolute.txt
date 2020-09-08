@@ -1,0 +1,9 @@
+c:\users\badblock\source\repos\EcommerceDDD\Entities\bin\Debug\netcoreapp2.1\Entities.deps.json
+c:\users\badblock\source\repos\EcommerceDDD\Entities\bin\Debug\netcoreapp2.1\Entities.dll
+c:\users\badblock\source\repos\EcommerceDDD\Entities\bin\Debug\netcoreapp2.1\Entities.pdb
+c:\users\badblock\source\repos\EcommerceDDD\Entities\obj\Debug\netcoreapp2.1\Entities.csprojAssemblyReference.cache
+c:\users\badblock\source\repos\EcommerceDDD\Entities\obj\Debug\netcoreapp2.1\Entities.csproj.CoreCompileInputs.cache
+c:\users\badblock\source\repos\EcommerceDDD\Entities\obj\Debug\netcoreapp2.1\Entities.AssemblyInfoInputs.cache
+c:\users\badblock\source\repos\EcommerceDDD\Entities\obj\Debug\netcoreapp2.1\Entities.AssemblyInfo.cs
+c:\users\badblock\source\repos\EcommerceDDD\Entities\obj\Debug\netcoreapp2.1\Entities.dll
+c:\users\badblock\source\repos\EcommerceDDD\Entities\obj\Debug\netcoreapp2.1\Entities.pdb
